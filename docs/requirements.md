@@ -32,6 +32,7 @@ Este proyecto consiste en desarrollar un modulo de sistema web para el pago de s
 ## 4. Roles de usuario
 - Cuentahabiente
 - Administrador
+- Empresa de Servicios
 
 ### 4.1 Administrador
 Puede: 
